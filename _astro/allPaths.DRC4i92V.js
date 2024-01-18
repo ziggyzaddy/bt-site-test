@@ -1,0 +1,1 @@
+import{I as n}from"./index.7lLlfVks.js";import{I as e}from"./index.KsG0Chs-.js";import{p as t,I as s}from"./MechTable.Bm_j0yX6.js";import"./index.NEVDNQDU.js";/* empty css                       */function f(o,a){var r=t(o);return a===s.STANDARD?n[r]:e[r]}function h(o){return t(o)}export{n as IconSvgPaths16,e as IconSvgPaths20,f as getIconPaths,h as iconNameToPathsRecordKey};
