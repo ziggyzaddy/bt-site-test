@@ -1,8 +1,8 @@
 spec:
-  name: sample-html
+  name: bt-mech-db
   static_sites:
   - environment_slug: html
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-html.git
-    name: sample-html
+      repo_clone_url: https://github.com/ziggyzaddy/bt-site-test.git
+    name: bt-site-test
